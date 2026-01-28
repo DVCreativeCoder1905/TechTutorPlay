@@ -32,6 +32,8 @@ Compiler Notes: Temporary build errors may occur due to ongoing modularization
 
 /security: Security layer handling authentication and access control logic.
 
+/docs: Project vision, strategic roadmap, and core values.
+
 README.md: Project documentation and environment specs
 
 ## 🎯 Strategic Goals
