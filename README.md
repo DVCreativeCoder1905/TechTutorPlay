@@ -8,7 +8,7 @@ TechTutorPlay Lab is an advanced educational sandbox and R&D project focused on 
 * **Infrastructure:** Microsoft Azure & Google Cloud (for Startups)
 * **Web Technologies:** HTML5, CSS3, JavaScript (Core Engine)
 * **Networking:** Cloudflare DNS management, SSL/TLS Edge Protection
-* **Communication:** Managed Google Business Plus & Microsoft 365 environments
+* **Communication:** Managed Google Workspace Business Plus & Microsoft 365 environments
 
 ## 🏗 Project Architecture
 Our environment is split into three main tiers:
